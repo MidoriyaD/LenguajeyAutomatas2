@@ -1,0 +1,3 @@
+El archivo texto.txt es la entrada para el programa el 
+cual esta organizado por package con sus respectivas clases
+o ejecutar el Traductor.jar
